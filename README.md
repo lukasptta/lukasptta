@@ -3,7 +3,7 @@
 ### Olá! Eu sou o Lucas Pita 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lukasptta)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-pita-92a0981b9/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-pita-92a0981b9TIRA/)
 
 
 ![Lucas Pita GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasptta&show_icons=true&theme=tokyonight)
