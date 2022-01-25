@@ -23,5 +23,5 @@
  <br/>
  <br/>
  <br/>
-A cada momento aprendendo e se apaixonando com esse mundo de tecnologia que cresce a todo instante.
+
 
