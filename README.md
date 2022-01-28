@@ -1,8 +1,10 @@
-### Hi there 👋
+### Hi there
 
 ### I´m Lucas Pita 👋
 
 I'm a Jr Developer Passionate about the best web and mobile development technologies. I have experience with projects using Html, Css and JavaScript. I am currently a student at Bootcamp Gostock at Rocketseat, where I am learning in practice the most modern web development technologies such as Typescript, NodeJS, ReactJS, and React Native.
+<br/>
+<br/>
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lukasptta)
@@ -15,6 +17,7 @@ I'm a Jr Developer Passionate about the best web and mobile development technolo
 
 
 ## Tecnologias que eu uso diariamente.
+<br/>
 <div style="display:inline_block"><br/>
 
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
