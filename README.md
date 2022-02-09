@@ -1,6 +1,8 @@
  ### Hi there 
+ 
+ 
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Pita</h1>
 
-### I´m Lucas Pita 👋
 
 I'm a Jr Developer Passionate about the best web and mobile development technologies. I have experience with projects using Html, Css and JavaScript. I am currently a student at Bootcamp Gostock at Rocketseat, where I am learning in practice the most modern web development technologies such as Typescript, NodeJS, ReactJS, and React Native.
 <br/>
@@ -11,14 +13,15 @@ I'm a Jr Developer Passionate about the best web and mobile development technolo
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-pita-92a0981b9TIRA/)
 <a href="mailto:lukasptta@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-
+## ⚙️ &nbsp;GitHub Analytics
 ![Lucas Pita GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasptta&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasptta)](https://github.com/lukasptta/github-readme-stats)
 
 
-## Tecnologias que eu uso diariamente.
-<br/>
+</br>
+
+## 🛠 &nbsp;Tech Stack
 <div align="center">
 <div style="display:inline_block"><br/>
 
