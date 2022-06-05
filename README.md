@@ -1,7 +1,7 @@
  ### Hi there 
  
  
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Pita</h1>
+<h1 align="left">Hi, I'm Lucas Pita</h1>
 
 
 I'm a Jr Developer Passionate about the best web and mobile development technologies. I have experience with projects using Html, Css and JavaScript. I am currently a student at Bootcamp Gostock at Rocketseat, where I am learning in practice the most modern web development technologies such as Typescript, NodeJS, ReactJS, and React Native.
