@@ -18,7 +18,7 @@ I'm a Jr Developer Passionate about the best web and mobile development technolo
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasptta)](https://github.com/lukasptta/github-readme-stats)
 
-
+</br>
 </br>
 
 ## 🛠 &nbsp;Tech Stack
