@@ -40,10 +40,13 @@
 
 
 ## ⚙️ &nbsp;GitHub Analytics
+
+<div align="center">
+ 
 ![Lucas Pita GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasptta&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasptta)](https://github.com/lukasptta/github-readme-stats)
-
+</div>
 </br>
 
  </div>
