@@ -23,7 +23,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-lukas%20ptta-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-p-maciel-92a0981b9/)](https://www.linkedin.com/in/lucas-p-maciel-92a0981b9/) 
 [![Gmail Badge](https://img.shields.io/badge/lukasptta@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lukasptta@gmail.com)](mailto:lukasptta@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-CodePen-black?style=flat-square&logo=CodePen&logoColor=white)](https://codepen.io/lukasptta)
-![](https://img.shields.io/badge/‎-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=plastic)
+
 
 <p align="left">I'm  Lucas a Jr Developer Passionate about the best web and mobile development technologies. I have experience with projects using Html, Css and JavaScript. I am currently a student at Bootcamp Gostock at Rocketseat, where I am learning in practice the most modern web development technologies such as Typescript, NodeJS, ReactJS, and React Native.</p>
 
