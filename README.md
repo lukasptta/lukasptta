@@ -25,7 +25,9 @@
 [![Github Badge](https://img.shields.io/badge/-CodePen-black?style=flat-square&logo=CodePen&logoColor=white)](https://codepen.io/lukasptta)
 
 
-<p align="left">I'm  Lucas a Jr Developer Passionate about the best web and mobile development technologies. I have experience with projects using Html, Css and JavaScript. I am currently a student at Bootcamp Gostock at Rocketseat, where I am learning in practice the most modern web development technologies such as Typescript, NodeJS, ReactJS, and React Native.</p>
+👨‍💻 &nbsp; I'm a full stack Developer <br>
+💻 &nbsp;Passionate about the best web and mobile development technologies <br>
+🏡 &nbsp; Brazilian 🌎
 
 ###
 
