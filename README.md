@@ -27,7 +27,7 @@
 
 👨‍💻 &nbsp; I'm a full stack Developer <br>
 💻 &nbsp;Passionate about the best web and backend development technologies <br>
-🏡 &nbsp; Brazilian 🌎
+🏡 &nbsp; Brazilian..🌎
 
 ###
 
