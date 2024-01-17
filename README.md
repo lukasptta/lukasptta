@@ -3,7 +3,13 @@
 
 <h2 align="left">Hi 👋! My name is Lucas Pita..</h2>
 
+  Sou um entusiasta do desenvolvimento web e atualmente estou trilhando minha jornada como Desenvolvedor Júnior. Minha paixão pelas tecnologias mais avançadas me levou a mergulhar no universo do PHP em 2022. Atualmente, estou prestes a concluir meu curso superior em Análise e Desenvolvimento de Sistemas, consolidando meu conhecimento teórico e prático.
 
+Minha expertise inclui o estudo aprofundado do framework Laravel, onde venho aprimorando minhas habilidades para criar soluções robustas e eficientes. Estou comprometido em aprender continuamente e aplicar as melhores práticas no desenvolvimento de software.
+
+Confira meu trabalho e projetos! 
+
+**Estou sempre aberto a colaborações e oportunidades que me permitam crescer profissionalmente enquanto contribuo para o mundo do desenvolvimento web.
 
 
 ###
