@@ -1,7 +1,7 @@
  ### Hi there
  
 
-<h2 align="left">Hi 👋! My name is Lucas Pita..</h2>
+<h2 align="left">Hi 👋! My name is Lucas Pita...</h2>
 
   Sou um entusiasta do desenvolvimento web e atualmente estou trilhando minha jornada como Desenvolvedor Júnior. Minha paixão pelas tecnologias mais avançadas me levou a mergulhar no universo do PHP em 2022. Atualmente, estou prestes a concluir meu curso superior em Análise e Desenvolvimento de Sistemas, consolidando meu conhecimento teórico e prático.
 
